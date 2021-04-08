@@ -1,0 +1,15 @@
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/BasicThirteen.deps.json
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/BasicThirteen.runtimeconfig.json
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/BasicThirteen.runtimeconfig.dev.json
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/BasicThirteen.dll
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/ref/BasicThirteen.dll
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/bin/Debug/net5.0/BasicThirteen.pdb
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.csprojAssemblyReference.cache
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.AssemblyInfoInputs.cache
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.AssemblyInfo.cs
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.csproj.CoreCompileInputs.cache
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.dll
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/ref/BasicThirteen.dll
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.pdb
+/Users/darelle/Desktop/CodingDojo/DojoAssignments/csharp/BasicThirteen/obj/Debug/net5.0/BasicThirteen.genruntimeconfig.cache
